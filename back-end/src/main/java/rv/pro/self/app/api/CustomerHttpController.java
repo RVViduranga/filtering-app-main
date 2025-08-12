@@ -1,8 +1,8 @@
-package lk.ijse.dep11.app.api;
+package rv.pro.self.app.api;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
-import lk.ijse.dep11.app.to.CustomerTO;
+import rv.pro.self.app.to.CustomerTO;
 import org.springframework.core.env.Environment;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.annotation.Validated;
@@ -11,7 +11,6 @@ import org.springframework.web.server.ResponseStatusException;
 
 import javax.annotation.PreDestroy;
 import javax.validation.ConstraintViolationException;
-import javax.validation.Valid;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Positive;
 import java.sql.Connection;

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59ad3e2f-5c52-48ab-8881-03ef4bf0e8ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/lk/ijse/dep11/app/WebAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/rv/pro/self/app/WebAppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/lk/ijse/dep11/app/WebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/rv/pro/self/app/WebAppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/lk/ijse/dep11/app/WebRootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/rv/pro/self/app/WebRootConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/lk/ijse/dep11/app/api/CustomerHttpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/rv/pro/self/app/api/CustomerHttpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/lk/ijse/dep11/app/to/CustomerTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/rv/pro/self/app/to/CustomerTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/test/java/lk/ijse/dep11/app/DatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/test/java/rv/pro/self/app/DatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/test/java/lk/ijse/dep11/app/IntegerConstantPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/test/java/rv/pro/self/app/IntegerConstantPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/test/java/lk/ijse/dep11/app/JVMEnv.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/test/java/rv/pro/self/app/JVMEnv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/test/java/lk/ijse/dep11/app/OSEnv.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/test/java/rv/pro/self/app/OSEnv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/test/java/lk/ijse/dep11/app/TestClearance1.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/test/java/rv/pro/self/app/TestClearance1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/test/java/lk/ijse/dep11/app/TestClearance2.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/test/java/rv/pro/self/app/TestClearance2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/test/java/lk/ijse/dep11/app/TestClearance3.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/test/java/rv/pro/self/app/TestClearance3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/test/java/lk/ijse/dep11/app/TestClearance4.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/test/java/rv/pro/self/app/TestClearance4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="31APhYkkWMgaVryn8CxuJtHxB8x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/OneDrive/Documents/Software Engineering/MyProjects/filtering-app-main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59ad3e2f-5c52-48ab-8881-03ef4bf0e8ff" name="Changes" comment="" />
+      <created>1754964023307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754964023307</updated>
+    </task>
+    <servers />
+  </component>
+</project>

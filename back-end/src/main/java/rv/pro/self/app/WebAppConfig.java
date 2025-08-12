@@ -1,4 +1,4 @@
-package lk.ijse.dep11.app;
+package rv.pro.self.app;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

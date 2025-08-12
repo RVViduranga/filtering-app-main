@@ -1,4 +1,4 @@
-package lk.ijse.dep11.app;
+package rv.pro.self.app;
 
 import com.github.javafaker.Faker;
 
